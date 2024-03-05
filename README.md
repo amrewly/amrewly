@@ -23,3 +23,7 @@ I'm Amelia Ismania, a student at Muhammadiyah Riau University. Currently, I'm di
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amrewly&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+### Reach me on
+- <a href="https://www.linkedin.com/in/amelia-ismania/">LinkedIn</a>
+- <a href="https://www.figma.com/@ameliaismania">Figma</a>
